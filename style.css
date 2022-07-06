@@ -1,0 +1,180 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.button{
+    text-decoration: none;
+    color: white;
+   background-image: linear-gradient(orange,tomato);
+    padding: 5px 30px;
+    font-weight: 900;
+    border-radius: 5px;
+    background-position: bottom;
+}
+.second-button{
+    text-align: center;
+}
+.first-part p{
+   
+    width: 691px;
+    height: 56px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    padding-left: 380px;
+}
+
+.first-part{
+    background-image: url(https://i.ibb.co/42K1rKx/donation13.jpg);
+height: 669px;
+background-repeat: no-repeat;
+background-size:100%;
+text-align: center;
+color: white;
+font-weight: 300;
+font-size: 45px;
+line-height: 59px;
+padding-top: 300px;
+
+}
+.seacond-part {
+    height: 669px;
+color: rgb(12, 12, 12);
+font-weight: 300;
+font-size: 25px;
+line-height: 59px;
+padding-top: 50px;
+
+}
+.color {
+    color: tomato;
+    border-style:solid;
+ border-color:#287EC7;
+ background-color: rgb(240, 191, 215);
+}
+
+.seacond-part p{
+    font-size: 18px;
+    text-align: center;
+}
+.seacond-part h1{
+    text-align: center;
+}
+.donate-today  h1{
+text-align: center;
+font-size: 35px;
+}
+.donate-today p{
+    text-align: center;
+}
+.prices{
+    display: flex;
+    justify-content: center;
+    padding: 5%; 
+    margin-left: 5%;
+   
+}
+ .prices p{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    margin: 20px;
+    height: 120px;
+    width: 120px;
+    box-shadow: 10px 10px 40px gray;
+ font-size: x-large;
+ font-weight: bolder;
+    
+
+}
+.amount input{
+
+        background-color: transparent;
+        border: 0px solid;
+        height: 50px;
+        width: 160px;
+       color: darkslategray;
+       text-align: center;
+       margin-left: 45%;
+      
+       
+    }
+    .family{
+        display: flex;
+       
+       
+    }
+    .box-one{
+        box-shadow: 8px 10px 20px gray;
+        background: rgba(79, 157, 166, 0.1);
+        border-radius: 5px;
+        background-repeat: no-repeat;
+        margin-right: 8px;
+        width: 33.33%;
+       
+    }
+    .box-one p, .box-two p, .box-three p,.box-one h2,.box-two h2,.box-three h2{
+        text-align: center;
+    }
+    
+    .box-two{ 
+        box-shadow: 8px 10px 20px gray;
+        background: rgba(255, 89, 89, 0.1);
+         border-radius: 5px;
+         background-repeat: no-repeat;
+         margin-right: 8px;
+         width: 33.33%;
+
+    }
+    .box-three{
+        box-shadow: 8px 10px 20px gray;
+        background: rgba(211, 209, 70, 0.1);
+         border-radius: 5px;
+         background-repeat: no-repeat;
+         margin-right: 8px;
+         width: 33.33%;
+    }
+    .news-letter{
+        width: 800px;
+        background-color: rgb(231, 247, 161);
+        margin: 0 auto;
+        text-align: center;
+    
+        padding: 10px;
+       height: 48px;
+      bottom: 48px;
+     
+    }
+    .news-letter button{
+        background-image: linear-gradient(orange,tomato);
+        color: white;
+        margin-top: 15px;
+    }
+   
+
+      .last-part{
+          text-align: center;
+          margin-top: 100px;
+
+      }
+      .footer{
+        text-align: center;
+        padding: 20px;
+        background-color: rgb(0, 0, 0);
+        color: white;
+       font-size: xx-large;
+       margin-top: 10%;
+       margin-bottom: 0%;
+
+      }
+      .footer h1{
+          color: hsl(348, 94%, 31%);
+          text-align: center;
+          font-family: 'Roboto Slab', serif;
+      }
+
+
+
+
+
